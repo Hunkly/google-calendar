@@ -72,6 +72,7 @@ export default function EventCreator() {
     return (
         <MuiPickersUtilsProvider utils={DateFnsUtils}>
             <Container className='container'>
+                <h1>Simple event creator</h1>
                 <form>
                     { !isEmpty ? <TextField
                         id='title'
