@@ -11,4 +11,4 @@ All what you need is create a [Google calendar](https://calendar.google.com/) an
 4. Run `npm start`.
 
 ## Author 
-Hunkly.
+Viktor Sapozhnik (Hunkly).
